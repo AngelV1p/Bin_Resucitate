@@ -33,6 +33,7 @@ ejemplo bin 576789xxxxxx genereas y copias dos cc generadas de ese bin sin fecha
 [#] escriba dos tarjetas generadas de un bin de 6 digitos sin el cvv y fecha
 
 (>_) tarjeta generada N° 1, /> 5767890410375188
+
 (>_) tarjeta generada N° 2, /> 5767895750763158
 
 
@@ -52,6 +53,7 @@ ojo debe ser una tarjeta por bin extrapolado, dado por el scrit, si pegas dos cc
 [#] Nota. copie las dos tarjetas extrapoladas y genere una tarjeta de cada bin en namso-gen y pegue acontinuacion
 
 (>_) tarjeta generada N° 1 /> 5767890612379087      
+
 (>_) tarjeta generada N° 2 /> 5767895550719087
 
 
