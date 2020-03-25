@@ -3,6 +3,8 @@ script extrapolador de bins, revive y saca lives con el metodo de sofia
 
 # instalacion
 
+apt update && apt upgrade -y
+
 git clone  https://github.com/AngelV1p/Bin_Resucitate.git
 
 cd Bin_Resucitate
@@ -16,7 +18,7 @@ chmod 777 Bin_Resucitate.sh
  # Como Funciona 
 _______________________________
 
-1. En esta linea pondras los ultimos cuatro digitos de una tarjejat real 
+1. En esta linea pondras los ultimos cuatro digitos de una tarjeta real 
 esto es para revivir un bin muerto o sacar lives o multi bin
 
 [#] Primer extrapolacion, escriba los 4 ultimos digitos de una cc real
@@ -64,10 +66,7 @@ ojo debe ser una tarjeta por bin extrapolado, dado por el scrit, si pegas dos cc
 6. Este bin lo podras usar esta vivo y dando buenas lives, asegurate de terminar el proceso correctamente 
 y el script ara su trabajo. Leer la nota como ultimo paso 
 
-  / _/_/ / /_/  / / |/ /__  / /____ _ 
-  / //_  . __// / /    / _ \/ __/ _ `/ 
- / //_    __// / /_/|_/\___/\__/\_,_(_)
-/__/ /_/_/ /__/                        
+
 
                  Tu nuevo bin tiene como ip la misma, no cambia
                     El codigo postal o direccion no cambian
@@ -97,7 +96,7 @@ y el script ara su trabajo. Leer la nota como ultimo paso
 ________________________________
 
 
-Paypal : paypal.me/AngelV1p
+Paypal : PayPal.me/AngelV1p
 
 Bitcoin : 39CeWnoeEEkiUsXDSQ3ox8kiXAK4pfvTDP
 
