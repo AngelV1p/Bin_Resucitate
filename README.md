@@ -41,6 +41,7 @@ ejemplo bin 576789xxxxxx genereas y copias dos cc generadas de ese bin sin fecha
 generar una tarjeta de cada bin en namso-ccgen
 
 [#] bin extrapolado 5767890x1x3x9087
+
 [#] bin extrapolado 5767895x5x7x9087
 
 
