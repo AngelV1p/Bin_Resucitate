@@ -93,11 +93,9 @@ y el script ara su trabajo. Leer la nota como ultimo paso
 ----------------------------------------------------------------------------------------------
 
 
-# creditos y donaciones
+# donaciones
 ________________________________
 
-
-Canal de telegram : http://t.me/ZonaPremim      
 
 Paypal : paypal.me/AngelV1p
 
