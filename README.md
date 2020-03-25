@@ -22,6 +22,8 @@ esto es para revivir un bin muerto o sacar lives o multi bin
 [#] Primer extrapolacion, escriba los 4 ultimos digitos de una cc real
 (>_) 4 digitos /> 9087
 
+
+
 2. En la siguiente linea buscaras un bin quemado o vivo e iras a namso-ccgen y 
 generaras dos tarjetas de ese bin, ojo recuerda que el bin debe ser de seis digitos
 ejemplo bin 576789xxxxxx genereas y copias dos cc generadas de ese bin sin fecha ni cvv al script
@@ -30,11 +32,15 @@ ejemplo bin 576789xxxxxx genereas y copias dos cc generadas de ese bin sin fecha
 (>_) tarjeta generada N° 1, /> 5767890410375188
 (>_) tarjeta generada N° 2, /> 5767895750763158
 
+
+
 3. El script creara la primer extrapolacion y deberas copiar esos dos bins extrapolados y
 generar una tarjeta de cada bin en namso-ccgen
 
 [#] bin extrapolado 5767890x1x3x9087
 [#] bin extrapolado 5767895x5x7x9087
+
+
 
 4. Copias y pegas la cc generada del bin extrapolado como en el punto "2."
 ojo debe ser una tarjeta por bin extrapolado, dado por el scrit, si pegas dos cc del mismo bin te dara un resultado negativo
@@ -44,12 +50,16 @@ ojo debe ser una tarjeta por bin extrapolado, dado por el scrit, si pegas dos cc
 (>_) tarjeta generada N° 1 /> 5767890612379087      
 (>_) tarjeta generada N° 2 /> 5767895550719087
 
+
+
 5. En este ultimo punto te dara tu nuevo bin extrapolado dos veces con el metodo de sofia 
 
            =============== extrapolacion sofia num. 2 ===============
 
 [#] nuevo Bin 5767890625xxxxxx
 [#] nuevo Bin 5767895525xxxxxx
+
+
 
 6. Este bin lo podras usar esta vivo y dando buenas lives, asegurate de terminar el proceso correctamente 
 y el script ara su trabajo. Leer la nota como ultimo paso 
