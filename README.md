@@ -22,6 +22,7 @@ _______________________________
 esto es para revivir un bin muerto o sacar lives o multi bin
 
 [#] Primer extrapolacion, escriba los 4 ultimos digitos de una cc real
+
 (>_) 4 digitos /> 9087
 
 
@@ -63,6 +64,7 @@ ojo debe ser una tarjeta por bin extrapolado, dado por el scrit, si pegas dos cc
            =============== extrapolacion sofia num. 2 ===============
 
 [#] nuevo Bin 5767890625xxxxxx
+
 [#] nuevo Bin 5767895525xxxxxx
 
 
