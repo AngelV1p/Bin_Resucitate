@@ -31,6 +31,7 @@ generaras dos tarjetas de ese bin, ojo recuerda que el bin debe ser de seis digi
 ejemplo bin 576789xxxxxx genereas y copias dos cc generadas de ese bin sin fecha ni cvv al script
 
 [#] escriba dos tarjetas generadas de un bin de 6 digitos sin el cvv y fecha
+
 (>_) tarjeta generada N° 1, /> 5767890410375188
 (>_) tarjeta generada N° 2, /> 5767895750763158
 
